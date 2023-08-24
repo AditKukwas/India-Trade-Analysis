@@ -5,8 +5,8 @@ The objectives of the project were:
 1. Finding country with which India has highest trade over the years.
 2. Finding Top 3 trding partners of India over the years.
 3. Finding Most and least Exported and imported commodity each year.
-4. Analysing imcrement in trade between India and Quad countries over the years.
-5. Analysing imcrement in trade between India and it's top trading partners such as China and Saudi Arabia.
+4. Analysing increment in trade between India and Quad countries over the years.
+5. Analysing increment in trade between India and it's top trading partners such as China and Saudi Arabia.
 6. Building a dashboard in Power BI for the KPI's above.
 
 The project showcases the use of SQL, and Power BI for data analysis and visualization, and provides a valuable resource for anyone interested in learning more about these tools and techniques.
