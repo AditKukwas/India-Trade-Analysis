@@ -18,3 +18,7 @@ SELECT to retrieve data from specific columns, FROM to specify the table to retr
 Power BI To visualize and analyze the Zomato restaurant data, Power BI was used to create interactive dashboards. The following features and functions were utilized:
 
 Data modeling using relationships between tables and calculated columns Measures and DAX formulas to perform calculations on the data Visualizations such as tables, charts, and maps to display the data Slicers and filters to enable dynamic filtering of the data Drill-through functionality to navigate between different levels of detail in the data.
+
+Here is the images showcasing the Power BI dashboard I have created.
+
+![PBI](https://github.com/AditKukwas/India-Trade-Analysis/assets/138763699/163d8397-7e5a-4d7c-963e-b52baf98f354)
